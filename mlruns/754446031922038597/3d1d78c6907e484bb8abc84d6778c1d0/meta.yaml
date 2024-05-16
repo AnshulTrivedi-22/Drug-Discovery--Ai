@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anshul/AIML_Projects/project1/mlruns/754446031922038597/3d1d78c6907e484bb8abc84d6778c1d0/artifacts
+end_time: 1715842182754
+entry_point_name: ''
+experiment_id: '754446031922038597'
+lifecycle_stage: active
+run_id: 3d1d78c6907e484bb8abc84d6778c1d0
+run_name: enc_dec_drug_molecule_gen.keras
+run_uuid: 3d1d78c6907e484bb8abc84d6778c1d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715842172938
+status: 3
+tags: []
+user_id: anshul

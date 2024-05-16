@@ -18,4 +18,4 @@ class preprocess_data:
         self.y = self.output_text_vectorization_layer(y).numpy()
 
 
-        return self.X,self.Y
+        return self.X,self.y

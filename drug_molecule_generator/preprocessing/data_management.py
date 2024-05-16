@@ -11,7 +11,7 @@ def load_dataset(file_name):
 
 
 def save_model(model_to_save):
-    saved_file_name = "enc-dec_drug_molecule_gen.keras"
+    saved_file_name = "enc_dec_drug_molecule_gen.keras"
     save_path = os.path.join(config.SAVED_MODEL_PATH,saved_file_name)
     model_to_save.save(save_path)
     print("Model saved at",save_path)

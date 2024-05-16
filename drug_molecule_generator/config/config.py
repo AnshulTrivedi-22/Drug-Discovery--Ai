@@ -4,7 +4,7 @@ import drug_molecule_generator
 
 PACKAGE_ROOT = pathlib.Path(drug_molecule_generator.__file__).resolve().parent
 
-DATA_PATH = os.path.join(PACKAGE_ROOT,"datasets")
+DATAPATH = os.path.join(PACKAGE_ROOT,"datasets")
 SAVED_MODEL_PATH = os.path.join(PACKAGE_ROOT,"trained_models")
 
 MAX_INPUT_SEQUENCE_LEN = 52
